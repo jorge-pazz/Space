@@ -1,6 +1,4 @@
-<h4 align="center"> 
-	<img alt="Alura Space" title="#AluraSpace" src="./src/componentes/Cabecalho/logo.png" />
-</h4>
+
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
@@ -10,13 +8,10 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-<h1 align="center">
-    <img alt="Alura Space" title="#AluraSpace" src="./src/paginas/PaginaInicial/banner.png" />
-</h1>
 
 ## 💻 Sobre o projeto
 
-🚀 Alura Space é uma aplicação desenvolvida para um teste técnico de uma vaga de pessoa desenvolvedora front-end jr. Se trata de uma galeria de imagens criada para a empresa [Alura Space](https://www.alura.com.br/) com o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
+🚀 Space é uma aplicação desenvolvida para um teste meus conhecimentos obtidos através de cursos. Se trata de uma galeria de imagenscom o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
 
 ---
 
@@ -37,21 +32,13 @@
 
 ---
 
-## 🎨 Layout
-
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos?node-id=89%3A4">
-  <img alt="Feito por Isadora Cardoso - Designer Multidisciplinar | Front End" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
 
 #### 🧭 Rodando a aplicação web (Modo desenvolvimento)
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/NeiltonSeguins/alura-space.git
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd alura-space
+$ cd space
 # Instale as dependências
 $ npm install
 # Execute a aplicação em modo de desenvolvimento
@@ -71,11 +58,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Alura Space)](https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos?node-id=89%3A4)**
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
-  - Extensão: **[S7 React/Redux/React-Native/JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**
-- CSS Modules: **[CSS Modules](https://github.com/css-modules/css-modules)**
-- Documentação do React: **[React Documentation](https://create-react-app.dev/docs/adding-a-stylesheet/)**
 
 ---
 
@@ -84,20 +66,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://www.instagram.com/ncode.io/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77410403?v=4" width="100px;" alt="Homem negro, cabelos curtos e encaracolados, nariz largo e com um sorriso no rosto. Está usando um Headset vermelho e preto. O cenário é uma parede lisa atrás com um fundo azul."/>
  <br />
- <sub><b>Neilton Seguins</b></sub></a> <a href="https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/" title="Alura Space">🚀</a>
+ <sub><b>Jorge Paz</b></sub>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-NeiltonSeguins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
-[![Gmail Badge](https://img.shields.io/badge/-neilton.seguins@alura.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neilton.seguins@alura.com.br)](mailto:neilton.seguins@alura.com.br)
-
----
-
-## 📝 Licença
-
-Desenvolvido por [Alura](https://www.alura.com.br/).
-
-Instrutor: [Neilton Seguins](https://cursos.alura.com.br/user/neilton-seguins) 
-
-👋🏽 [Entre em contato pelo Linkedin!](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
-
----
