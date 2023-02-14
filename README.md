@@ -63,9 +63,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://www.instagram.com/ncode.io/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77410403?v=4" width="100px;" alt="Homem negro, cabelos curtos e encaracolados, nariz largo e com um sorriso no rosto. Está usando um Headset vermelho e preto. O cenário é uma parede lisa atrás com um fundo azul."/>
- <br />
  <sub><b>Jorge Paz</b></sub>
  <br />
 
